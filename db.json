@@ -1,0 +1,64 @@
+{
+  "superheroes": [
+    {
+      "id": "1",
+      "name": "Batmansss",
+      "alterEgo": "Bruce Wayne"
+    },
+    {
+      "id": "2",
+      "name": "Superman",
+      "alterEgo": "Clark Kent"
+    },
+    {
+      "id": "3",
+      "name": "Wonder Woman",
+      "alterEgo": "Princess Diana"
+    },
+    {
+      "id": "a877",
+      "name": "demo",
+      "alterEgo": "demogo"
+    },
+    {
+      "id": "4ebd",
+      "name": "helo",
+      "alterEgo": "demo"
+    },
+    {
+      "id": "2441",
+      "name": "demo",
+      "alterEgo": "nameego"
+    },
+    {
+      "id": "caff",
+      "name": "name",
+      "alterEgo": "ego"
+    },
+    {
+      "id": "5026",
+      "name": "name11",
+      "alterEgo": "ego"
+    },
+    {
+      "id": "d65d",
+      "name": "name12",
+      "alterEgo": "ego"
+    },
+    {
+      "id": "f906",
+      "name": "name13",
+      "alterEgo": "ego"
+    }
+  ],
+  "friends": [
+    {
+      "id": "1",
+      "name": "Chandler"
+    },
+    {
+      "id": "2",
+      "name": "Joey"
+    }
+  ]
+}
